@@ -28,4 +28,6 @@ Para recriar o banco:
 
 ## Evidências
 
-Executar o arquivo main.py e observar a saída no terminal.
+Execução do arquivo main.py e observação da saída no terminal.
+
+<img width="728" height="380" alt="saida" src="https://github.com/user-attachments/assets/0fa339d1-cb06-4df2-a0b9-ffea47529a7f" />
